@@ -18,7 +18,7 @@ const projectData: Project[] = [
     { id: 2, title: "Ecommerce Portfolio Website", description: "Project 2", image: "/projects/ecommerce.jpg", name: ["All", "Web", "mobile"] },
     { id: 3, title: "Food Portfolio Website", description: "Project 3", image: "/projects/food.png", name: ["All", "Web"] },
     { id: 4, title: "Perfume Portfolio Website", description: "Project 4", image: "/projects/perfume.jpg", name: ["All", "Web", "mobile"] },
-    { id: 5, title: "Jeweler Portfolio Website", description: "Project 5", image: "/projects/JeWeler.png", name: ["All", "Web"] },
+    { id: 5, title: "Jeweler Portfolio Website", description: "Project 5", image: "/projects/Jeweler.png", name: ["All", "Web"] },
     { id: 6, title: "Makeup Portfolio Website", description: "Project 6", image: "/projects/makeup.jpg", name: ["All"] },
 ];
 
