@@ -26,7 +26,7 @@ export default function HeroSection() {
                   1000,
                   'Web Developer',
                   1000,
-                  'Scripter',
+                  'Programmer',
                   1000,
                   'Designer',
                   1000,
