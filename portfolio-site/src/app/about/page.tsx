@@ -12,11 +12,11 @@ const TAB_DATA = [
         id: "skills",
         content: () => (
             <ul className="list-disc pl-5">
-                <li><FontAwesomeIcon icon={faHtml5} className="mr-2" /> HTML</li>
-                <li><FontAwesomeIcon icon={faCss3Alt} className="mr-2" /> CSS</li>
-                <li><FontAwesomeIcon icon={faJsSquare} className="mr-2" /> JavaScript</li>
-                <li><FontAwesomeIcon icon={faPython} className="mr-2" /> Python</li>
-                <li><FontAwesomeIcon icon={faCode} className="mr-2" /> Next.js</li>
+                <li className="hover:text-purple-500 transition duration-300"><FontAwesomeIcon icon={faHtml5} className="mr-2" /> HTML</li>
+                <li className="hover:text-purple-500 transition duration-300"><FontAwesomeIcon icon={faCss3Alt} className="mr-2" /> CSS</li>
+                <li className="hover:text-purple-500 transition duration-300"><FontAwesomeIcon icon={faJsSquare} className="mr-2" /> TypeScript</li>
+                <li className="hover:text-purple-500 transition duration-300"><FontAwesomeIcon icon={faPython} className="mr-2" /> Python</li>
+                <li className="hover:text-purple-500 transition duration-300"><FontAwesomeIcon icon={faCode} className="mr-2" /> Next.js</li>
             </ul>
         )
     },
@@ -25,8 +25,8 @@ const TAB_DATA = [
         id: "education",
         content: () => (
             <ul className="list-disc pl-5">
-                <li><FontAwesomeIcon icon={faGraduationCap} className="mr-2" /> Intermediate in Computer Science</li>
-                <li><FontAwesomeIcon icon={faBook} className="mr-2" /> Matriculation (Science)</li>
+                <li className="hover:text-purple-500 transition duration-300"><FontAwesomeIcon icon={faGraduationCap} className="mr-2" /> Intermediate in Computer Science</li>
+                <li className="hover:text-purple-500 transition duration-300"><FontAwesomeIcon icon={faBook} className="mr-2" /> Matriculation (Science)</li>
             </ul>
         )
     },
@@ -35,8 +35,8 @@ const TAB_DATA = [
         id: "certifications",
         content: () => (
             <ul className="list-disc pl-5">
-                <li><FontAwesomeIcon icon={faCertificate} className="mr-2" /> DAE Software Engineering</li>
-                <li><FontAwesomeIcon icon={faBookOpen} className="mr-2" /> Computer Information Technology</li>
+                <li className="hover:text-purple-500 transition duration-300"><FontAwesomeIcon icon={faCertificate} className="mr-2" /> DAE Software Engineering</li>
+                <li className="hover:text-purple-500 transition duration-300"><FontAwesomeIcon icon={faBookOpen} className="mr-2" /> Computer Information Technology</li>
             </ul>
         )
     }
