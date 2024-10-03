@@ -14,7 +14,7 @@ const TAB_DATA = [
             <ul className="list-disc pl-5">
                 <li className="hover:text-purple-500 transition duration-300"><FontAwesomeIcon icon={faHtml5} className="mr-2" /> HTML</li>
                 <li className="hover:text-purple-500 transition duration-300"><FontAwesomeIcon icon={faCss3Alt} className="mr-2" /> CSS</li>
-                <li className="hover:text-purple-500 transition duration-300"><FontAwesomeIcon icon={faJsSquare} className="mr-2" /> TypeScript</li>
+                <li className="hover:text-purple-500 transition duration-300"><FontAwesomeIcon icon={faJsSquare} className="mr-2" /> JavaScript</li>
                 <li className="hover:text-purple-500 transition duration-300"><FontAwesomeIcon icon={faPython} className="mr-2" /> Python</li>
                 <li className="hover:text-purple-500 transition duration-300"><FontAwesomeIcon icon={faCode} className="mr-2" /> Next.js</li>
             </ul>
